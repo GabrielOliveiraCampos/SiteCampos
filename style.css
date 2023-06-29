@@ -1,0 +1,289 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: blanchedalmond ; 
+
+}
+#barra-principal{
+    background-color: navajowhite;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 73px;
+}
+
+  h1{
+    position: absolute;
+    top: 14px;
+    font-size: 40px;
+    right: 540px;
+    font-style: oblique;
+  }
+
+.imagens{
+  display: flex;
+}
+.Menu{
+  height: 59px;
+  top: 10px;
+  position: absolute;
+}
+.Perfil{
+  height: 70px;
+  position: absolute;
+  width: 55px;
+  top: 2px;
+  right: 4px;
+}
+.Carrinho{
+  height: 70px;
+  position: absolute;
+  width: 59px;
+  top: 2px;
+  right: 52px;
+}
+.Lupa{
+  height: 50px;
+  position: absolute;
+  width: 44px;
+  top: 10px;
+  right: 102px;
+
+}
+
+.Logo{
+  position: absolute;
+  left: -50px;
+  top: 30px;
+  height: 320px;
+  
+}
+.Desconto{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: -150px;
+  
+}
+#frase{
+  display: flex;
+  font-size: 32px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  font-style: oblique;
+  background-color: moccasin;
+  color: rgb(35, 32, 32);
+  width: 630px;
+  margin-left: 340px;
+}
+.MoletomCapa{
+  width: 380px;
+  margin-top: 113px;
+  margin-left: -20px;
+}
+#CamisaBranca{
+  position: absolute  ;
+  margin-top: -400px;
+  width: 280px;
+  margin-left: 370px;
+  background-color: navajowhite;
+}
+#CamisaPreta{
+  width: 280px;
+  margin-left: 690px;
+  position: absolute;
+  background-color: navajowhite;
+  margin-top: -300px;
+}
+#PreçoBranca{
+  display: flex;
+  margin-left: -195px;
+  font-size: 17px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: 95px;
+}
+#PreçoPreta{
+  display: flex;
+  margin-left: 420px;
+  font-size: 19px;
+  align-items: center;
+  justify-content: center;
+  margin-top: -1px;
+}
+#NomePreta{
+  font-size: 40x;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 420px;
+  margin-top: -42px;
+}
+#NomeBranca{
+  font-size: 13px;
+  align-items: center;
+  justify-content: center;
+  margin-right: 190px;
+  display: flex;  
+  margin-top: -134px;
+
+}
+
+.camisahighpreta{
+  display: flex;
+}
+#TítuloVestuário{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 39px;
+  font-size: 50px;
+  font-style: oblique;
+}
+#Masculino{
+  font-size: 29px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-right: 770px;
+  margin-top: 25px;
+  font-style: oblique;
+}
+#Feminino{
+  font-size: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -37px;
+  margin-left: 600px;
+}
+#camisamasculino{
+  display: flex;
+}
+.CamisaBeer{
+  margin-top: 20px;
+  width: 228px;
+  height: 228px;
+  background-color: navajowhite;
+  margin-left: 10px;
+}
+.CamisaParafuso{
+  margin-top: 20px;
+  width: 228px;
+  height: 228px;
+  background-color: navajowhite;
+  margin-left: 50px;
+}
+
+#preçobeer{
+  margin-left: 380px;
+  font-style: italic;
+  margin-top: 10px;
+}
+#preçoparafuso{
+  margin-left: 100px;
+  position: relative;
+  top: -15px;
+  font-style: italic;
+}
+.Moletomvestuario{
+  width: 250px;
+  margin-left: 140px;
+  background-color: navajowhite;
+  margin-top: -5px;
+}
+#preçomoletom{
+  margin-left: 240px;
+  font-style: italic;
+}
+.Kitmulher{
+  display: flex;
+  margin-top: -270px;
+  width: 250px;
+  margin-left: 890px;
+  background-color: navajowhite;
+}
+#Preçokit{
+  margin-left: 990px;
+  font-style: italic;
+}
+.Moletommulher{
+  margin-left: 760px;
+  margin-top: -530px;
+  width: 230px;
+  background-color: navajowhite;
+  display: flex;
+
+}
+#Preçofeminino{
+  margin-left: 850px;
+  font-style: italic;
+}
+.Vestido{
+  margin-left: 1030px;
+  background-color: navajowhite;
+  width: 210px;
+  display: flex;
+  margin-top: -250px;
+
+}
+#Preçovestido{
+  margin-left: 1110px;
+}
+#promo{
+  display: flex;
+  margin-top: 400px;
+  margin-left: 470px;
+  font-size: 47px;
+  font-style: oblique;
+}
+.bag{
+  width: 240px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: navajowhite;
+}
+.bic{
+  margin-top: -490px;
+  margin-left: 320px;
+  width: 420px;
+  background-color: navajowhite;
+}
+.bone{
+  position: relative;
+  bottom: 400px;
+  width: 340px;
+  background-color: navajowhite;
+  margin-left: 800px;
+}
+#Preçobag{
+  margin-left: 120px;
+  position: relative;
+  bottom: 363px;
+}
+#Preçobic{
+  margin-left: 510px;
+  position: relative;
+  bottom: 365px;
+
+}
+.Preçopreto{
+  margin-top: 100px ;
+}
+#Preçolaranja{
+  position: absolute;
+  margin-top: -440px;
+  margin-left: 950px;
+}
+#barra-final{
+  color: bisque;
+  text-align: center;
+  justify-content: center;
+  font-size: 40px;
+  background-color: bisque;
+  margin-top: -350px;
+}

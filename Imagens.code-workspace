@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Imagens",
+			"path": "../Imagens"
+		},
+		{
+			"name": "Site Campos",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Site Campos"
+	}
+}
